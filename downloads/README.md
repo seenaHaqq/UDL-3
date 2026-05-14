@@ -1,2 +1,6 @@
-## empty
-for start go Action tab and use left side workflows
+# 📦 فایل‌ها
+
+- [win-x64-setup](./win-x64-setup)
+
+---
+*[avasam.ir](https://avasam.ir)*
